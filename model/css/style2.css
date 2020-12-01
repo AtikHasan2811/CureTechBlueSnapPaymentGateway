@@ -1,0 +1,124 @@
+.modal-head{
+
+	     font-size: 18px;
+    color: #6e6363;
+    padding: 10px;
+}
+
+.pro-section{
+
+	padding: 30px;
+    color: #6e6363;
+
+}
+
+.pro-img{
+
+      margin: auto;
+    text-align: center;
+
+}
+
+.pro-img img{
+    height: 130px;
+    width: 235px;
+    margin: auto;
+
+}
+
+.pro-details{
+
+	padding: 20px;
+}
+.pro-details h4{
+
+	     font-size: 15px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.pro-details h4 span{
+
+	text-decoration-line: line-through;
+    text-decoration-thickness: 2px;
+}
+
+.pro-details h5{
+
+	font-size: 16px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.pro-details p{
+
+	    font-size: 14px;
+
+    padding-top: 15px;
+}
+
+.shipping-info{
+
+
+	    padding: 30px;
+    color: #6e6363;
+}
+.shipping-head{
+
+	border-bottom: 2px solid #d92727;
+    margin-bottom: 30px;
+}
+.shipping-head h3{}
+
+
+.shipping-details{}
+.shipping-details label{
+
+
+}
+.shipping-details input[type='text']{
+
+
+}
+
+.terms{
+
+	color: red;
+}
+
+.button{
+
+    margin-top: 25px;
+	background: red;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 8px 20px;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+.input-field{
+
+}
+.input-field label{}
+.input-field input[type='text']{
+
+   height: 42px;
+}
+
+.select-box input[type='radio']{
+
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-left: 12px;
+}
+.select-box{
+
+	padding-top: 10px;
+}
+
+
+@media (min-width: 992px) {
+    .modal-lg {
+        width: 900px;
+    }
+}
